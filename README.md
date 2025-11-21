@@ -4,8 +4,7 @@
 Mini Exploratory Data Analysis (EDA) project on monthly sales data for multiple products.  
 Purpose: Analyze sales trends, visualize data, and extract key insights using *Python, **pandas, **matplotlib, and **seaborn*.
 
-## 
-Dataset
+## Dataset
 The dataset is stored in SALES.csv and contains monthly sales information for different products.  
 
 It has three main columns:  
